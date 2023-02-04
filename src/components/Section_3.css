@@ -1,0 +1,170 @@
+.section3{
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 5% 10%;
+    display: flex;
+    flex-direction: column;
+}
+.section3 .section3Container{
+    height: 23vw;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    overflow: hidden;
+}
+
+.section3Container img:hover {
+    scale: 1.2;
+    transition: 0.3s;
+    cursor: pointer;
+    overflow: hidden;
+}
+.section3Container{
+    display: flex;
+    text-align: left;
+    margin-bottom: 5%;
+}
+.section3Container div:nth-of-type(2){
+    flex: 1;
+    overflow: hidden;
+}
+.section3Container div:nth-of-type(2) img{
+    max-width: 100%;
+    
+}
+
+.section3Container div:nth-of-type(1){
+    padding-right: 5%;
+    flex: 1;
+}
+.section3Container p:nth-of-type(1){
+    font-size: 1vw;
+}
+
+.section3Container p:nth-of-type(2){
+    font-size: 2.2vw;
+    font-weight: 700;
+    padding: 2% 0;
+}
+
+.section3Container p:nth-of-type(3){
+    font-size: 1vw;
+}
+.section3Container button{
+    font-weight: 700;
+    background-color: white;
+    padding: 3% 3%;
+    width: 35%;
+    font-size: 0.8vw;
+    margin: 3% 0;
+    border: 1px solid black;
+    color: black;
+}
+.section3Container button:hover{
+    cursor: pointer;
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+}
+.section3CardsContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.section3Card{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    height: 100%;
+
+}
+.section3Card img{
+    margin-bottom: 5%;
+    height: 50%;
+}
+
+.section3Card p:nth-of-type(1){
+    font-size: 1.5vw;
+    font-weight: 700;
+    margin-bottom: 1%;
+}
+.section3Card p:nth-of-type(2){
+    font-size: 1vw;
+    margin-bottom: 1%;
+}
+.section3Card a{
+    color: white;
+    font-size: 0.9vw;
+    font-style: italic;
+}
+
+.section3Card a:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
+.section3Card:hover{
+    scale: 1.1;
+    cursor: pointer;
+    transition: 0.3s;
+
+}
+@media (max-width: 700px) {
+    .section3CardsContainer{
+        flex-direction: column;
+    }
+    .section3Card{
+        flex-direction: row;
+        width: 100%;
+        align-items: center;
+        padding: 5% 0;
+    }
+    .section3Card img{
+        width: 50%;
+        height: 100%;
+        margin-bottom: 0;
+    }
+    .section3Card p{
+        padding-left: 10%;
+    }
+    .section3Card a{
+        padding-left: 10%;
+        font-size: 1.8vw;
+    } 
+    .section3Card p:nth-of-type(1){
+        font-size: 3.2vw;
+  
+    }
+    .section3Card p:nth-of-type(2){
+        font-size: 2.2vw;
+        margin-bottom: 1%;
+    }
+    
+    .section3 .section3Container{
+        height: auto;
+    }
+.section3Container div:nth-of-type(1){
+    padding-right: 5%;
+    flex: 1;
+}
+.section3Container p:nth-of-type(1){
+    font-size: 1.9vw;
+}
+.section3Container p:nth-of-type(2){
+    font-size: 2.4vw;
+}
+
+.section3Container p:nth-of-type(3){
+    font-size: 1.7vw;
+}
+.section3Container button{
+    font-size: 1.2vw;
+    padding: 2% 6%;
+}
+.section3Container img{
+    height: auto;
+}
+    
+
+}
