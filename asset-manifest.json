@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.dcab8ff6.css",
-    "main.js": "/react-gh-pages/static/js/main.22c63ac6.js",
-    "static/js/787.c1112931.chunk.js": "/react-gh-pages/static/js/787.c1112931.chunk.js",
-    "static/media/2019-Audi-A8-s1-model-intro-01-vid-desktop-v2.mp4": "/react-gh-pages/static/media/2019-Audi-A8-s1-model-intro-01-vid-desktop-v2.445c426b632fb4a3bbd4.mp4",
-    "static/media/logo.png": "/react-gh-pages/static/media/logo.d5231de9d2ff0eb6c571.png",
-    "static/media/1.png": "/react-gh-pages/static/media/1.4ce4604e60216681641f.png",
-    "static/media/50.jpg": "/react-gh-pages/static/media/50.b73db7210071553a3f67.jpg",
-    "static/media/2019_audi_a8_sedan_l-30-tfsi-quattro_rq_oem_1_1600x1067.avif": "/react-gh-pages/static/media/2019_audi_a8_sedan_l-30-tfsi-quattro_rq_oem_1_1600x1067.eb483da4d4e73531b083.avif",
-    "static/media/2019-Audi-A8-L-52.avif": "/react-gh-pages/static/media/2019-Audi-A8-L-52.54757980d4ee3a6b8e3e.avif",
-    "static/media/7.jpeg": "/react-gh-pages/static/media/7.77651acd9748c2b4cc74.jpeg",
-    "static/media/2.png": "/react-gh-pages/static/media/2.4ee8d62af7dac91ad4db.png",
-    "static/media/3.jpeg": "/react-gh-pages/static/media/3.7987ec1336ba89ebc0af.jpeg",
-    "static/media/9.jpeg": "/react-gh-pages/static/media/9.31e314f98f4669ab2714.jpeg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.dcab8ff6.css.map": "/react-gh-pages/static/css/main.dcab8ff6.css.map",
-    "main.22c63ac6.js.map": "/react-gh-pages/static/js/main.22c63ac6.js.map",
-    "787.c1112931.chunk.js.map": "/react-gh-pages/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/AUDI/static/css/main.dcab8ff6.css",
+    "main.js": "/AUDI/static/js/main.3129cf8a.js",
+    "static/js/787.c1112931.chunk.js": "/AUDI/static/js/787.c1112931.chunk.js",
+    "static/media/2019-Audi-A8-s1-model-intro-01-vid-desktop-v2.mp4": "/AUDI/static/media/2019-Audi-A8-s1-model-intro-01-vid-desktop-v2.445c426b632fb4a3bbd4.mp4",
+    "static/media/logo.png": "/AUDI/static/media/logo.d5231de9d2ff0eb6c571.png",
+    "static/media/1.png": "/AUDI/static/media/1.4ce4604e60216681641f.png",
+    "static/media/50.jpg": "/AUDI/static/media/50.b73db7210071553a3f67.jpg",
+    "static/media/2019_audi_a8_sedan_l-30-tfsi-quattro_rq_oem_1_1600x1067.avif": "/AUDI/static/media/2019_audi_a8_sedan_l-30-tfsi-quattro_rq_oem_1_1600x1067.eb483da4d4e73531b083.avif",
+    "static/media/2019-Audi-A8-L-52.avif": "/AUDI/static/media/2019-Audi-A8-L-52.54757980d4ee3a6b8e3e.avif",
+    "static/media/7.jpeg": "/AUDI/static/media/7.77651acd9748c2b4cc74.jpeg",
+    "static/media/2.png": "/AUDI/static/media/2.4ee8d62af7dac91ad4db.png",
+    "static/media/3.jpeg": "/AUDI/static/media/3.7987ec1336ba89ebc0af.jpeg",
+    "static/media/9.jpeg": "/AUDI/static/media/9.31e314f98f4669ab2714.jpeg",
+    "index.html": "/AUDI/index.html",
+    "main.dcab8ff6.css.map": "/AUDI/static/css/main.dcab8ff6.css.map",
+    "main.3129cf8a.js.map": "/AUDI/static/js/main.3129cf8a.js.map",
+    "787.c1112931.chunk.js.map": "/AUDI/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dcab8ff6.css",
-    "static/js/main.22c63ac6.js"
+    "static/js/main.3129cf8a.js"
   ]
 }
