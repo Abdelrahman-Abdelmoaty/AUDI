@@ -5,18 +5,21 @@ import "./Section_1.css"
 import img1 from "../images/2.png"
 const Section_1 = ()=>{
     const ref = useRef()
-    window.addEventListener("scroll", ()=>{
-        if(ref.current.getBoundingClientRect().top < 500 && ref.current.getBoundingClientRect().top > -150){
-            $(".img").css("transform", "translateX(0)")
-            $(".section1Container").css("transform", "translateX(50vw)")
+    if($(document).width() > 1200){
+        window.addEventListener("scroll", ()=>{
+            if(ref.current.getBoundingClientRect().top < 500 && ref.current.getBoundingClientRect().top > -150){
+                $(".img").css("transform", "translateX(0)")
+                $(".section1Container").css("transform", "translateX(50vw)")
+    
+            } 
+            if(ref.current.getBoundingClientRect().top > 500 || ref.current.getBoundingClientRect().top < -500 ){
+                $(".img").css("transform", "translateX(100vw)")
+                $(".section1Container").css("transform", "translateX(100vw)")
 
-        } 
-        if(ref.current.getBoundingClientRect().top > 500 || ref.current.getBoundingClientRect().top < -500 ){
-            $(".img").css("transform", "translateX(100vw)")
-            $(".section1Container").css("transform", "translateX(100vw)")
 
-        } 
-    })
+            }  
+        })
+    }
     return (
         <section ref={ref} className="section1">
             <img className="img" src={img1}  alt="" />
