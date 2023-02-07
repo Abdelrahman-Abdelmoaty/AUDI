@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AUDI/static/css/main.62948b08.css",
+    "main.css": "/AUDI/static/css/main.dcab8ff6.css",
     "main.js": "/AUDI/static/js/main.b58a8fa6.js",
     "static/js/787.c1112931.chunk.js": "/AUDI/static/js/787.c1112931.chunk.js",
     "static/media/2019-Audi-A8-s1-model-intro-01-vid-desktop-v2.mp4": "/AUDI/static/media/2019-Audi-A8-s1-model-intro-01-vid-desktop-v2.445c426b632fb4a3bbd4.mp4",
@@ -14,12 +14,12 @@
     "static/media/3.jpeg": "/AUDI/static/media/3.7987ec1336ba89ebc0af.jpeg",
     "static/media/9.jpeg": "/AUDI/static/media/9.31e314f98f4669ab2714.jpeg",
     "index.html": "/AUDI/index.html",
-    "main.62948b08.css.map": "/AUDI/static/css/main.62948b08.css.map",
+    "main.dcab8ff6.css.map": "/AUDI/static/css/main.dcab8ff6.css.map",
     "main.b58a8fa6.js.map": "/AUDI/static/js/main.b58a8fa6.js.map",
     "787.c1112931.chunk.js.map": "/AUDI/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62948b08.css",
+    "static/css/main.dcab8ff6.css",
     "static/js/main.b58a8fa6.js"
   ]
 }
